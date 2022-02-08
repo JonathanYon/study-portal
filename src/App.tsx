@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import Topnav from "./components/Topnav";
+import Topnav from "./components/homapage/Topnav";
 
 function App() {
   return (
