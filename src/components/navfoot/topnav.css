@@ -1,0 +1,8 @@
+.nav-create {
+  display: block;
+  box-sizing: border-box;
+  height: 40px;
+  background-color: #3ddcd6;
+  clip-path: ellipse(96% 100% at 81.36% 0%);
+  margin-left: 0.5rem;
+}
