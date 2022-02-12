@@ -23,7 +23,7 @@ const Info = () => {
             objectFit: "cover",
             height: "100vh",
             backgroundSize: "100% 75%",
-            // marginLeft: "10rem"
+            marginLeft: "0.2rem"
           }}
         >
           hel
