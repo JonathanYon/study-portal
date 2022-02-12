@@ -3,6 +3,6 @@
   box-sizing: border-box;
   height: 40px;
   background-color: #3ddcd6;
-  clip-path: ellipse(96% 100% at 81.36% 0%);
+  clip-path: polygon(20% 2%, 90% 16%, 100% 45%, 92% 82%, 13% 92%, 0% 50%);
   margin-left: 0.5rem;
 }

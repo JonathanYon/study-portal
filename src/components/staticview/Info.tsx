@@ -11,7 +11,7 @@ const Info = () => {
             backgroundImage: `url(${estudy})`,
             backgroundRepeat: "no-repeat",
             objectFit: "cover",
-            height: "100vh"
+            height: "100vh",
           }}
         >
           hello
@@ -23,7 +23,7 @@ const Info = () => {
             objectFit: "cover",
             height: "100vh",
             backgroundSize: "100% 75%",
-            marginLeft: "0.2rem"
+            marginLeft: "0.2rem",
           }}
         >
           hel
@@ -33,3 +33,11 @@ const Info = () => {
   );
 };
 export default Info;
+
+/* <div
+            style={{
+              backgroundImage: `url(${rightImage})`,
+              height: "90vh",
+              objectFit: "cover",
+            }}
+          ></div> */
